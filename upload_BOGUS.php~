@@ -2,7 +2,6 @@
 <?php
 include('session.php');
 // include('session2.php');
-// always keep sessions on the top
 include('functions.php');
 ?>
 <html>
